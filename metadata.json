@@ -1,0 +1,8 @@
+{
+  "name": "Tactical Chess Duel",
+  "description": "Tactical chess game with fast-paced card combat mini-games on every capture, single-player vs adaptive AI and 2-player local PvP modes, piece leveling, persistent player profiles, and uneditable military rank titles from Squire to Emperor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
